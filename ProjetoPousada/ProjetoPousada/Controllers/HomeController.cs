@@ -33,6 +33,17 @@ namespace ProjetoPousada.Controllers
 			return View();
 		}
 
+		public IActionResult Contatos()
+		{
+			return View();
+		}
+
+		[HttpGet("chama")]
+		public string chama()
+		{
+			return "bolas";
+		}
+
 		[ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
 		public IActionResult Error()
 		{

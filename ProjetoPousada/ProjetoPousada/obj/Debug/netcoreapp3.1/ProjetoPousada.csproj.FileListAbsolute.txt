@@ -36,3 +36,4 @@ C:\Users\User\Documents\Luiz-Gabao\ProjetoPousada\ProjetoPousada\obj\Debug\netco
 C:\Users\User\Documents\Luiz-Gabao\ProjetoPousada\ProjetoPousada\obj\Debug\netcoreapp3.1\ProjetoPousada.csproj.CopyComplete
 C:\Users\User\Documents\Luiz-Gabao\ProjetoPousada\ProjetoPousada\obj\Debug\netcoreapp3.1\Razor\Views\Home\Gabao.cshtml.g.cs
 C:\Users\User\Documents\Luiz-Gabao\ProjetoPousada\ProjetoPousada\obj\Debug\netcoreapp3.1\Razor\Views\Home\Novo.cshtml.g.cs
+C:\Users\User\Documents\Luiz-Gabao\ProjetoPousada\ProjetoPousada\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contatos.cshtml.g.cs
